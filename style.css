@@ -1,0 +1,19 @@
+body {
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+button {
+    border: none;
+    padding: 1em;
+    background: cyan;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.active {
+    background: gray;
+}
