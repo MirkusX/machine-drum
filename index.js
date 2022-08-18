@@ -8,7 +8,6 @@ const text = ["Clap", "Hi Hat", "Kick", "Open Hat", "Ride", "Snare", "Tink", "To
 const btn = document.querySelectorAll(".audio-btn")
 const body = document.body
 const textContainer = document.querySelector("#text")
-let incorrect = 0
 /*keybindings setup towards audioMap index*/
 const binds = {
    "a": 0,
